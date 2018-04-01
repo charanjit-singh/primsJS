@@ -167,7 +167,7 @@ console.log('END');
 this.remove();
 return;
     }
-    fill(0,255,0);
+    fill(255,0,0);
     
      text(this.value(),labelX,labelY).rotate(30);
    
